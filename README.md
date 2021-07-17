@@ -1,7 +1,7 @@
 # vue-covid-tracker
 
 Application created with VueJS and TailwindCSS to display covid-19 stats of cofirmed cases and confirmed deaths globally and by country.
-
+[View demo](https://mysterious-brook-20381.herokuapp.com/)
 ![image](Screenshot.png)
 
 ## Project setup
