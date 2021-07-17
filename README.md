@@ -2,6 +2,8 @@
 
 Application created with VueJS and TailwindCSS to display covid-19 stats of cofirmed cases and confirmed deaths globally and by country.
 
+![image](Screenshot.png)
+
 ## Project setup
 ```
 npm install
